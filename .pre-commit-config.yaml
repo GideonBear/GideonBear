@@ -14,7 +14,7 @@ repos:
     -   id: check-vcs-permalinks
     -   id: check-xml
     -   id: check-yaml
-    -   id: double-quote-string-fixer  # TODO: check if this works with flake8-quotes
+    -   id: double-quote-string-fixer  # TODO: check if this works like flake8-quotes
     -   id: end-of-file-fixer
     -   id: fix-encoding-pragma
         args: [--remove]
@@ -30,14 +30,20 @@ repos:
     -   id: autopep8
 
 -   repo: https://github.com/pycqa/isort
-    rev: 5.11.4
+    rev: '5.11.4'
     hooks:
     -   id: isort
         args: [--add-import, 'from __future__ import annotations']
 
 -   repo: https://github.com/pre-commit/mirrors-mypy
-    rev: '0.991'
+    rev: v0.991
     hooks:
     -   id: mypy
-        args: []  # Remove default `--ignore-missing-imports`
+        args: []  # Removes default `--ignore-missing-imports`
         additional_dependencies: []  # Add dependencies (including stubs) here
+
+-   repo: https://github.com/asottile/add-trailing-comma
+    rev: v2.4.0
+    hooks:
+    -   id: add-trailing-comma
+        args: [--py36-plus]
