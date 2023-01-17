@@ -1,0 +1,43 @@
+minimum_pre_commit_version: '2.21.0'
+
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+    -   id: check-case-conflict
+    -   id: check-executables-have-shebangs
+    -   id: check-json
+    -   id: check-merge-conflict
+    -   id: check-shebang-scripts-are-executable
+    -   id: check-symlinks
+    -   id: check-toml
+    -   id: check-vcs-permalinks
+    -   id: check-xml
+    -   id: check-yaml
+    -   id: double-quote-string-fixer  # TODO: check if this works with flake8-quotes
+    -   id: end-of-file-fixer
+    -   id: fix-encoding-pragma
+        args: [--remove]
+    -   id: mixed-line-ending
+        args: [--fix=lf]
+    -   id: pretty-format-json
+        args: [--autofix, --indent=4]
+    -   id: trailing-whitespace
+    
+-   repo: https://github.com/pre-commit/mirrors-autopep8
+    rev: v2.0.1
+    hooks:
+    -   id: autopep8
+
+-   repo: https://github.com/pycqa/isort
+    rev: 5.11.4
+    hooks:
+    -   id: isort
+        args: [--add-import, 'from __future__ import annotations']
+
+-   repo: https://github.com/pre-commit/mirrors-mypy
+    rev: '0.991'
+    hooks:
+    -   id: mypy
+        args: []  # Remove default `--ignore-missing-imports`
+        additional_dependencies: []  # Add dependencies (including stubs) here
