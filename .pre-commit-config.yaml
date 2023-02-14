@@ -52,25 +52,25 @@ repos:
         -   --show-error-codes
         -   --pretty
         -   --enable-error-code=redundant-self,redundant-expr,truthy-bool,truthy-iterable,ignore-without-code,unused-awaitable
-        warn_unused_configs = True
-disallow_untyped_calls = True
-disallow_untyped_defs = True
-disallow_incomplete_defs = True
-check_untyped_defs = True
-disallow_untyped_decorators = True
-# disallow_any_unimported = True  # It already warns for the import
-disallow_any_generics = True
-disallow_any_explicit = True
-disallow_subclassing_any = True
-warn_redundant_casts = True
-warn_unused_ignores = True
-warn_no_return = True
-warn_return_any = True
-warn_unreachable = True
-no_implicit_reexport = True
-strict_concatenate = True
-strict_equality = True
-no_implicit_optional = False
+        -   --warn-unused-configs
+        -   --disallow-untyped-calls
+        -   --disallow-untyped-defs
+        -   --disallow-incomplete-defs
+        -   --check-untyped-defs
+        -   --disallow-untyped-decorators
+        #-   --disallow-any-unimported = True  # It already warns for the import
+        -   --disallow-any-generics
+        -   --disallow-any-explicit
+        -   --disallow-subclassing-any
+        -   --warn-redundant-casts
+        -   --warn-unused-ignores
+        -   --warn-no-return
+        -   --warn-return-any
+        -   --warn-unreachable
+        -   --no-implicit-reexport
+        -   --strict-concatenate
+        -   --strict-equality
+        -   --implicit-optional
         
         additional_dependencies: []  # Add dependencies (including stubs) here
 
