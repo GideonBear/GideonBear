@@ -57,6 +57,7 @@ repos:
         -   --enable-error-code=truthy-iterable
         -   --enable-error-code=ignore-without-code
         -   --enable-error-code=unused-awaitable
+        -   --enable-error-code=possibly-undefined
         -   --warn-unused-configs
         -   --disallow-untyped-calls
         -   --disallow-untyped-defs
