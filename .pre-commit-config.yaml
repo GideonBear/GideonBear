@@ -51,7 +51,12 @@ repos:
         args:  # Removes default `--ignore-missing-imports`
         -   --show-error-codes
         -   --pretty
-        -   --enable-error-code=redundant-self,redundant-expr,truthy-bool,truthy-iterable,ignore-without-code,unused-awaitable
+        -   --enable-error-code=redundant-self
+        -   --enable-error-code=redundant-expr
+        -   --enable-error-code=truthy-bool
+        -   --enable-error-code=truthy-iterable
+        -   --enable-error-code=ignore-without-code
+        -   --enable-error-code=unused-awaitable
         -   --warn-unused-configs
         -   --disallow-untyped-calls
         -   --disallow-untyped-defs
