@@ -15,14 +15,14 @@ repos:
     -   id: check-xml
     -   id: check-yaml
     -   id: double-quote-string-fixer  # TODO: check if this works like flake8-quotes
-    #-   id: end-of-file-fixer  # replaced by autopep8 W292 and W391
+    -   id: end-of-file-fixer  # in python replaced by autopep8 W292 and W391
     -   id: fix-encoding-pragma
         args: [--remove]
     -   id: mixed-line-ending
         args: [--fix=lf]
     -   id: pretty-format-json
         args: [--autofix, --indent=4]
-    #-   id: trailing-whitespace  # replaced by autopep8 W291 and W293
+    -   id: trailing-whitespace  # in python replaced by autopep8 W291 and W293
     
 -   repo: https://github.com/pre-commit/mirrors-autopep8
     rev: v2.0.1
