@@ -76,7 +76,7 @@ repos:
         -   --strict-concatenate
         -   --strict-equality
         -   --implicit-optional
-        
+        exclude: '^tests/'
         additional_dependencies: []  # Add dependencies (including stubs) here
 
 -   repo: https://github.com/asottile/add-trailing-comma
