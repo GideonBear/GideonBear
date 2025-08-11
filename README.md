@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 You can reach me:
-* On Discord, username: gideonbear, [link](https://discord.com/users/552138988765315073))
+* On Discord, username: gideonbear, [link](https://discord.com/users/552138988765315073)
 * Via e-mail at address: glj?zp8u@anonaddy<span>.me</span> (replace ? with the answer to 2+7)
 
 <!--
