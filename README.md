@@ -2,7 +2,7 @@
 
 You can reach me:
 * On Discord, username: gideonbear, [link](https://discord.com/users/552138988765315073)
-* Via e-mail at address: glj?zp8u@anonaddy<span>.me</span> (replace ? with the answer to 2+7)
+* Via e-mail at address: dig-sultry-sed?te@duck<span>.com</span> (replace ? with the first letter of the alphabet)
 
 <!--
 **GideonBear/GideonBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
