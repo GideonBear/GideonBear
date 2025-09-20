@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 You can reach me:
-* On Discord, username: gideonbear, [link](https://discord.com/users/552138988765315073)
+* On Discord, username: gideonbear, [link](https://discord.com/users/552138988765315073); friend requests and DMs are open
 * Via e-mail at address: dig-sultry-sed?te@duck<span>.com</span> (replace ? with the first letter of the alphabet)
 
 <!--
