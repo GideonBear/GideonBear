@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=GideonBear&label=Visitor+Count">
 
----
+## Hi there 👋
 
 You can reliably reach me:
 * On Discord, username: gideonbear, [link](https://discord.com/users/552138988765315073); friend requests and DMs are open
