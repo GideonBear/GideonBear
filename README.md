@@ -4,7 +4,9 @@
 
 You can reliably reach me:
 * On Discord, username: gideonbear, [link](https://discord.com/users/552138988765315073); friend requests and DMs are open
-* Via e-mail at address: dig-sultry-sed?te@duck<span>.com</span> (replace ? with the first letter of the alphabet)
+* Via e-mail at: dig-sultry-sedate@duck.com
+
+Messages can optionally be encrypted using the following OpenPGP key: [8D65051DC7DD96E518359527BC6D7C047E1A62F0](https://keys.openpgp.org/search?q=8D65051DC7DD96E518359527BC6D7C047E1A62F0)
 
 Other places where you can find me are listed in [my keyoxide profile](https://keyoxide.org/aspe:keyoxide.org:BW4JHVBB5HM3DMAVNSY34QAEQU),
 but I can't guarantee I'll see your message everywhere.
