@@ -1,8 +1,20 @@
-## Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=GideonBear&label=Visitor+Count">
 
-You can reach me:
+---
+
+You can reliably reach me:
 * On Discord, username: gideonbear, [link](https://discord.com/users/552138988765315073); friend requests and DMs are open
 * Via e-mail at address: dig-sultry-sed?te@duck<span>.com</span> (replace ? with the first letter of the alphabet)
+
+Other places where you can find me are listed in [my keyoxide profile](https://keyoxide.org/aspe:keyoxide.org:BW4JHVBB5HM3DMAVNSY34QAEQU),
+but I can't guarantee I'll see your message everywhere.
+
+I use GitHub out of habit, and because most projects are located there, but I would actually rather not. I might move personal projects
+to another Git forge sometime in the future. In the meantime, I have accounts on other Git forges, and I'm open to collaborate there:
+* [Codeberg](https://codeberg.org/): [GideonBear](https://codeberg.org/GideonBear)
+* [LavaForge](https://lavaforge.org/): [GideonBear](https://lavaforge.org/GideonBear)
+* [sourcehut](https://sr.ht/): [~GideonBear](https://sr.ht/~gideonbear/)
+* [GitLab](https://gitlab.com) (only slightly better than GitHub): [GideonBear](https://gitlab.com/GideonBear)
 
 <!--
 **GideonBear/GideonBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
