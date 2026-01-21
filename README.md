@@ -16,7 +16,7 @@ to another Git forge sometime in the future. In the meantime, I have accounts on
 * [Codeberg](https://codeberg.org/): [GideonBear](https://codeberg.org/GideonBear)
 * [LavaForge](https://lavaforge.org/): [GideonBear](https://lavaforge.org/GideonBear)
 * [sourcehut](https://sr.ht/): [~GideonBear](https://sr.ht/~gideonbear/)
-* [GitLab](https://gitlab.com) (only slightly better than GitHub): [GideonBear](https://gitlab.com/GideonBear)
+* [GitLab](https://gitlab.com): [GideonBear](https://gitlab.com/GideonBear)
 
 <!--
 **GideonBear/GideonBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
