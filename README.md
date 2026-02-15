@@ -16,6 +16,11 @@ to another Git forge sometime in the future. In the meantime, I have accounts on
 * [sourcehut](https://sr.ht/): [~GideonBear](https://sr.ht/~gideonbear/)
 * [GitLab](https://gitlab.com): [GideonBear](https://gitlab.com/GideonBear)
 
+## Working on...
+
+* Maintaining [Topgrade](https://github.com/topgrade-rs/topgrade)
+* Developing [falconf](https://github.com/GideonBear/falconf)
+
 ---
 
 <img src="https://komarev.com/ghpvc/?username=GideonBear&label=Visitor+Count">
