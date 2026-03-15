@@ -19,6 +19,7 @@ to another Git forge sometime in the future. In the meantime, I have accounts on
 ## Working on...
 
 * Maintaining [Topgrade](https://github.com/topgrade-rs/topgrade)
+* Maintaining [self_update](https://github.com/jaemk/self_update)
 * Developing [falconf](https://github.com/GideonBear/falconf)
 
 ---
