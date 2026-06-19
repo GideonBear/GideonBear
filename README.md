@@ -16,9 +16,10 @@ to another Git forge sometime in the future. In the meantime, I have accounts on
 * [sourcehut](https://sr.ht/): [~GideonBear](https://sr.ht/~gideonbear/)
 * [GitLab](https://gitlab.com): [GideonBear](https://gitlab.com/GideonBear)
 
-## Working on...
+## Projects
 
 * Maintaining [Topgrade](https://github.com/topgrade-rs/topgrade)
+* Developed and maintaining [jetbrains-toolbox-updater](https://github.com/GideonBear/jetbrains-toolbox-updater)
 * Maintaining [self_update](https://github.com/jaemk/self_update)
 * Developing [falconf](https://github.com/GideonBear/falconf)
 
