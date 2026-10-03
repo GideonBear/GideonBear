@@ -9,7 +9,7 @@ Messages can optionally be encrypted using the following OpenPGP key: [8D65051DC
 Other places where you can find me are listed in [my keyoxide profile](https://keyoxide.org/aspe:keyoxide.org:BW4JHVBB5HM3DMAVNSY34QAEQU),
 but I can't guarantee I'll see your message everywhere.
 
-I use GitHub out of habit, and because most projects are located there, but I would actually rather not. I might move personal projects
+I use GitHub out of habit, and because most projects are located there, but I don't like it. I might move personal projects
 to another Git forge sometime in the future. In the meantime, I have accounts on other Git forges, and I'm open to collaborate there:
 * [Codeberg](https://codeberg.org/): [GideonBear](https://codeberg.org/GideonBear)
 * [LavaForge](https://lavaforge.org/): [GideonBear](https://lavaforge.org/GideonBear)
