@@ -23,6 +23,10 @@ to another Git forge sometime in the future. In the meantime, I have accounts on
 * Developed and maintaining [jetbrains-toolbox-updater](https://github.com/GideonBear/jetbrains-toolbox-updater)
 * Developing [falconf](https://github.com/GideonBear/falconf)
 
+## Support me
+
+* Monero (XMR): 84obypBKEVp9MuU9J6ip8mainLji8eTEeEJBukjPmjp1ANPYWJYFe6ZBiwbFn7fP8FjTcpSEqRVVaNPudU4UdBQ5PGA62U5
+
 ---
 
 <img src="https://komarev.com/ghpvc/?username=GideonBear&label=Visitor+Count">
